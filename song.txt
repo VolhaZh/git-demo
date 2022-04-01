@@ -11,4 +11,10 @@ Oh, yeah, baby, baby, I won't be there,
 Really got to ramble.
 I can hear it callin' me the way it used to do,
 I can hear it callin' me back home.
+<<<<<<< HEAD
 -----------------------------------------------
+=======
+
+I know, I never leave you, baby.
+But I got to go away from this place, I've got to quit you.
+>>>>>>> fe42295bcebe585d0221315a6745eb617363606b
